@@ -1,6 +1,4 @@
-% Please insert the names and email addresses of the group members:
-%
-%
+% Please insert the names and email address
 
 % Tips:
 % - You may include the facts below to represent the differences
