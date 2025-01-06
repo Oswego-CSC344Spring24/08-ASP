@@ -19,3 +19,5 @@ For each instance, you will see if the test is a:
 * "failure" (wrong answer),
 * "timeout" (no solution found before the time runs out), or
 * "error" (clingo error).
+
+The original version can be found here: https://github.com/potassco-asp-course/project-seeknumbers
